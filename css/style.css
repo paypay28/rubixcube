@@ -1,0 +1,14 @@
+*{box-sizing: border-box;}
+
+#count{
+    text-align: center;
+}
+
+#rubix{
+    display: flex;
+    flex-wrap: wrap;
+    width: 604px;
+    height: 604px;
+    border: 2px solid burlywood;
+    margin: 50px auto;
+}
